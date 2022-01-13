@@ -125,8 +125,8 @@
     <Compile Include="CollectivsPage\InfoDigital.xaml.cs">
       <DependentUpon>InfoDigital.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CollectivsPage\InfoLSEPPI.xaml.cs">
-      <DependentUpon>InfoLSEPPI.xaml</DependentUpon>
+    <Compile Include="CollectivsPage\InfoSSAG.xaml.cs">
+      <DependentUpon>InfoSSAG.xaml</DependentUpon>
     </Compile>
     <Compile Include="CollectivsPage\InfoDebate.xaml.cs">
       <DependentUpon>InfoDebate.xaml</DependentUpon>
@@ -151,6 +151,12 @@
     </Compile>
     <Compile Include="CollectivsPage\InfoCV.xaml.cs">
       <DependentUpon>InfoCV.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CollectivsPage\Info1054.xaml.cs">
+      <DependentUpon>Info1054.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CollectivsPage\InfoPrestizh.xaml.cs">
+      <DependentUpon>InfoPrestizh.xaml</DependentUpon>
     </Compile>
     <Compile Include="PageWithCollectivs\CommunityCollectivs.xaml.cs">
       <DependentUpon>CommunityCollectivs.xaml</DependentUpon>
@@ -191,7 +197,9 @@
     <Content Include="Assets\ButtonCollectivs\Since.png" />
     <Content Include="Assets\ButtonCollectivs\Society.png" />
     <Content Include="Assets\ButtonCollectivs\Sport.png" />
-    <Content Include="Assets\CollectivsPagePNG\SovetStarost.png" />
+    <Content Include="Assets\CollectivsPagePNG\Info1054.png" />
+    <Content Include="Assets\CollectivsPagePNG\InfoPrestizh.png" />
+    <Content Include="Assets\CollectivsPagePNG\InfoSSAG.png" />
     <Content Include="Assets\CollectivsPhoto\prestige.png" />
     <Content Include="Assets\ButtonCollectivs\V_yberi_svoy_put.png" />
     <Content Include="Assets\CollectivsPagePNG\InfoSSK.png" />
@@ -234,7 +242,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="CollectivsPage\InfoLSEPPI.xaml">
+    <Page Include="CollectivsPage\InfoSSAG.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -267,6 +275,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="CollectivsPage\InfoCV.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CollectivsPage\Info1054.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CollectivsPage\InfoPrestizh.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

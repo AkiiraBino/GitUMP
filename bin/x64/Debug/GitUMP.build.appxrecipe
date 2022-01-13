@@ -382,8 +382,14 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\ButtonCollectivs\Sport.png">
       <PackagePath>Assets\ButtonCollectivs\Sport.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\SovetStarost.png">
-      <PackagePath>Assets\CollectivsPagePNG\SovetStarost.png</PackagePath>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\Info1054.png">
+      <PackagePath>Assets\CollectivsPagePNG\Info1054.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\InfoPrestizh.png">
+      <PackagePath>Assets\CollectivsPagePNG\InfoPrestizh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\InfoSSAG.png">
+      <PackagePath>Assets\CollectivsPagePNG\InfoSSAG.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPhoto\prestige.png">
       <PackagePath>Assets\CollectivsPhoto\prestige.png</PackagePath>
@@ -487,8 +493,8 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoDigital.xbf">
       <PackagePath>CollectivsPage\InfoDigital.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoLSEPPI.xbf">
-      <PackagePath>CollectivsPage\InfoLSEPPI.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoSSAG.xbf">
+      <PackagePath>CollectivsPage\InfoSSAG.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoDebate.xbf">
       <PackagePath>CollectivsPage\InfoDebate.xbf</PackagePath>
@@ -513,6 +519,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoCV.xbf">
       <PackagePath>CollectivsPage\InfoCV.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\Info1054.xbf">
+      <PackagePath>CollectivsPage\Info1054.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoPrestizh.xbf">
+      <PackagePath>CollectivsPage\InfoPrestizh.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\CommunityCollectivs.xbf">
       <PackagePath>PageWithCollectivs\CommunityCollectivs.xbf</PackagePath>

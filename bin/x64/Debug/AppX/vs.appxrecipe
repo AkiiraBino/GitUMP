@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-01-13T03:59:44.963</Modified>
+      <Modified>2022-01-13T23:17:29.767</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\GitUMP.exe">
       <PackagePath>entrypoint\GitUMP.exe</PackagePath>
-      <Modified>2022-01-13T03:59:44.477</Modified>
+      <Modified>2022-01-13T23:17:29.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -510,9 +510,17 @@
       <PackagePath>Assets\ButtonCollectivs\Sport.png</PackagePath>
       <Modified>2022-01-13T02:30:02.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\SovetStarost.png">
-      <PackagePath>Assets\CollectivsPagePNG\SovetStarost.png</PackagePath>
-      <Modified>2022-01-10T06:19:01.259</Modified>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\Info1054.png">
+      <PackagePath>Assets\CollectivsPagePNG\Info1054.png</PackagePath>
+      <Modified>2022-01-13T23:09:42.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\InfoPrestizh.png">
+      <PackagePath>Assets\CollectivsPagePNG\InfoPrestizh.png</PackagePath>
+      <Modified>2022-01-13T23:09:42.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\InfoSSAG.png">
+      <PackagePath>Assets\CollectivsPagePNG\InfoSSAG.png</PackagePath>
+      <Modified>2022-01-13T22:58:53.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPhoto\prestige.png">
       <PackagePath>Assets\CollectivsPhoto\prestige.png</PackagePath>
@@ -524,7 +532,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\InfoSSK.png">
       <PackagePath>Assets\CollectivsPagePNG\InfoSSK.png</PackagePath>
-      <Modified>2022-01-10T06:07:47.632</Modified>
+      <Modified>2022-01-13T22:58:40.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPhoto\1054.png">
       <PackagePath>Assets\CollectivsPhoto\1054.png</PackagePath>
@@ -560,7 +568,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPagePNG\InfoDebate.png">
       <PackagePath>Assets\CollectivsPagePNG\InfoDebate.png</PackagePath>
-      <Modified>2021-12-25T03:36:09.159</Modified>
+      <Modified>2022-01-13T22:58:47.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\Assets\CollectivsPhoto\ssag.png">
       <PackagePath>Assets\CollectivsPhoto\ssag.png</PackagePath>
@@ -634,7 +642,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\GitUMP.xr.xml">
       <PackagePath>GitUMP.xr.xml</PackagePath>
-      <Modified>2022-01-13T03:07:14.825</Modified>
+      <Modified>2022-01-13T23:12:41.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
@@ -648,9 +656,9 @@
       <PackagePath>CollectivsPage\InfoDigital.xbf</PackagePath>
       <Modified>2021-12-11T04:09:25.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoLSEPPI.xbf">
-      <PackagePath>CollectivsPage\InfoLSEPPI.xbf</PackagePath>
-      <Modified>2022-01-10T06:19:13.878</Modified>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoSSAG.xbf">
+      <PackagePath>CollectivsPage\InfoSSAG.xbf</PackagePath>
+      <Modified>2022-01-13T23:12:41.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoDebate.xbf">
       <PackagePath>CollectivsPage\InfoDebate.xbf</PackagePath>
@@ -684,21 +692,29 @@
       <PackagePath>CollectivsPage\InfoCV.xbf</PackagePath>
       <Modified>2021-11-21T02:45:15.446</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\Info1054.xbf">
+      <PackagePath>CollectivsPage\Info1054.xbf</PackagePath>
+      <Modified>2022-01-13T23:12:41.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoPrestizh.xbf">
+      <PackagePath>CollectivsPage\InfoPrestizh.xbf</PackagePath>
+      <Modified>2022-01-13T23:12:41.679</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\CommunityCollectivs.xbf">
       <PackagePath>PageWithCollectivs\CommunityCollectivs.xbf</PackagePath>
       <Modified>2022-01-13T03:58:19.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\DanceCollectivs.xbf">
       <PackagePath>PageWithCollectivs\DanceCollectivs.xbf</PackagePath>
-      <Modified>2022-01-13T03:59:44.378</Modified>
+      <Modified>2022-01-13T23:16:16.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\Collectivs.xbf">
       <PackagePath>PageWithCollectivs\Collectivs.xbf</PackagePath>
-      <Modified>2022-01-13T03:07:14.849</Modified>
+      <Modified>2022-01-13T23:17:29.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Dictionary.xbf">
       <PackagePath>Dictionary.xbf</PackagePath>
-      <Modified>2022-01-13T03:59:44.378</Modified>
+      <Modified>2022-01-13T23:17:29.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
@@ -730,11 +746,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-01-13T03:12:23.862</Modified>
+      <Modified>2022-01-13T23:12:42.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Core\GitUMP.exe">
       <PackagePath>GitUMP.exe</PackagePath>
-      <Modified>2022-01-13T03:59:44.960</Modified>
+      <Modified>2022-01-13T23:17:29.765</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="GitUMP.InfoLSEPPI"
+    x:Class="GitUMP.InfoPrestizh"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:GitUMP"
@@ -16,9 +16,8 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
-        </Grid.ColumnDefinitions>   
-        <Image Source="/Assets/CollectivsPagePNG/SovetStarost.png"  Stretch="UniformToFill" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
-        <Button x:ConnectionId='1' x:Name="Back"   Grid.Column="0" Grid.Row="0" FontFamily="Segoe MDL2 Assets" Content="" Background="Transparent" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0"                          />
+        </Grid.ColumnDefinitions>
+        <Image Source="/Assets/CollectivsPagePNG/InfoPrestizh.png"  Stretch="UniformToFill" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+        <Button x:Name="Back"   Grid.Column="0" Grid.Row="0" FontFamily="Segoe MDL2 Assets" Content="" Background="Transparent" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0" Click="ButtonBack_Click" />
     </Grid>
 </Page>
-

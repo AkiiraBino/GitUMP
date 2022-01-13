@@ -20,9 +20,9 @@ namespace GitUMP
     /// <summary>
     /// Пустая страница, которую можно использовать саму по себе или для перехода внутри фрейма.
     /// </summary>
-    public sealed partial class InfoLSEPPI : Page
+    public sealed partial class InfoPrestizh : Page
     {
-        public InfoLSEPPI()
+        public InfoPrestizh()
         {
             this.InitializeComponent();
         }

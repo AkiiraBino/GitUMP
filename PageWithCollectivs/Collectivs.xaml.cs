@@ -113,7 +113,18 @@ namespace GitUMP
 
         private void ButtonInfoSSAG_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(InfoLSEPPI));
+            Frame.Navigate(typeof(InfoSSAG));
+        }
+
+
+        private void ButtonInfo1054_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(Info1054));
+        }
+
+        private void ButtonInfoPrestizh_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(InfoPrestizh));
         }
 
         private void ButtonCommunyti_Click(object sender, RoutedEventArgs e)

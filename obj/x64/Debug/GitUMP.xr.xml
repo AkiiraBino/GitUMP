@@ -49,7 +49,7 @@
       <RootProperty Name="Style" />
     </RootType>
     <RootType FullName="GitUMP.InfoDigital" />
-    <RootType FullName="GitUMP.InfoLSEPPI" />
+    <RootType FullName="GitUMP.InfoSSAG" />
     <RootType FullName="GitUMP.InfoDebate" />
     <RootType FullName="GitUMP.InfoStatus" />
     <RootType FullName="GitUMP.InfoMTTS" />
@@ -58,6 +58,8 @@
     <RootType FullName="GitUMP.InfoNSO" />
     <RootType FullName="GitUMP.InfoRSO" />
     <RootType FullName="GitUMP.InfoCV" />
+    <RootType FullName="GitUMP.Info1054" />
+    <RootType FullName="GitUMP.InfoPrestizh" />
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="Orientation" />
       <RootProperty Name="Children" />

@@ -314,7 +314,6 @@ C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityC
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\App.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoHostel.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoDigital.xbf
-C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoLSEPPI.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoDebate.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoStatus.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoMTTS.xbf
@@ -461,8 +460,6 @@ C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\Git
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.g.cs
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.g.i.cs
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.g.cs
-C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.g.i.cs
-C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.g.cs
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.g.i.cs
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.g.cs
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.g.i.cs
@@ -499,7 +496,6 @@ C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\Git
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\App.xaml
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.xaml
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.xaml
-C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.xaml
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.xaml
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.xaml
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.xaml
@@ -520,7 +516,6 @@ C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\Git
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\App.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.xbf
-C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.xbf
@@ -629,3 +624,18 @@ C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\Git
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SportCollectivs.xaml
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SportCollectivs.xbf
 C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\SportCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSAG.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSAG.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSAG.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSAG.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoSSAG.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\Info1054.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoPrestizh.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\Info1054.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\Info1054.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoPrestizh.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoPrestizh.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\Info1054.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoPrestizh.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\Info1054.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoPrestizh.xbf

@@ -132,12 +132,12 @@ namespace GitUMP.GitUMP_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[22];
+            _typeNameTable = new string[24];
             _typeNameTable[0] = "GitUMP.InfoHostel";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
             _typeNameTable[3] = "GitUMP.InfoDigital";
-            _typeNameTable[4] = "GitUMP.InfoLSEPPI";
+            _typeNameTable[4] = "GitUMP.InfoSSAG";
             _typeNameTable[5] = "GitUMP.InfoDebate";
             _typeNameTable[6] = "GitUMP.InfoStatus";
             _typeNameTable[7] = "GitUMP.InfoMTTS";
@@ -146,22 +146,24 @@ namespace GitUMP.GitUMP_XamlTypeInfo
             _typeNameTable[10] = "GitUMP.InfoNSO";
             _typeNameTable[11] = "GitUMP.InfoRSO";
             _typeNameTable[12] = "GitUMP.InfoCV";
-            _typeNameTable[13] = "GitUMP.CommunityCollectivs";
-            _typeNameTable[14] = "GitUMP.DanceCollectivs";
-            _typeNameTable[15] = "GitUMP.Collectivs";
-            _typeNameTable[16] = "GitUMP.MainPage";
-            _typeNameTable[17] = "GitUMP.News";
-            _typeNameTable[18] = "GitUMP.SportCollectivs";
-            _typeNameTable[19] = "GitUMP.Photo";
-            _typeNameTable[20] = "GitUMP.SinceCollectivs";
-            _typeNameTable[21] = "GitUMP.Video";
+            _typeNameTable[13] = "GitUMP.Info1054";
+            _typeNameTable[14] = "GitUMP.InfoPrestizh";
+            _typeNameTable[15] = "GitUMP.CommunityCollectivs";
+            _typeNameTable[16] = "GitUMP.DanceCollectivs";
+            _typeNameTable[17] = "GitUMP.Collectivs";
+            _typeNameTable[18] = "GitUMP.MainPage";
+            _typeNameTable[19] = "GitUMP.News";
+            _typeNameTable[20] = "GitUMP.SportCollectivs";
+            _typeNameTable[21] = "GitUMP.Photo";
+            _typeNameTable[22] = "GitUMP.SinceCollectivs";
+            _typeNameTable[23] = "GitUMP.Video";
 
-            _typeTable = new global::System.Type[22];
+            _typeTable = new global::System.Type[24];
             _typeTable[0] = typeof(global::GitUMP.InfoHostel);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
             _typeTable[3] = typeof(global::GitUMP.InfoDigital);
-            _typeTable[4] = typeof(global::GitUMP.InfoLSEPPI);
+            _typeTable[4] = typeof(global::GitUMP.InfoSSAG);
             _typeTable[5] = typeof(global::GitUMP.InfoDebate);
             _typeTable[6] = typeof(global::GitUMP.InfoStatus);
             _typeTable[7] = typeof(global::GitUMP.InfoMTTS);
@@ -170,15 +172,17 @@ namespace GitUMP.GitUMP_XamlTypeInfo
             _typeTable[10] = typeof(global::GitUMP.InfoNSO);
             _typeTable[11] = typeof(global::GitUMP.InfoRSO);
             _typeTable[12] = typeof(global::GitUMP.InfoCV);
-            _typeTable[13] = typeof(global::GitUMP.CommunityCollectivs);
-            _typeTable[14] = typeof(global::GitUMP.DanceCollectivs);
-            _typeTable[15] = typeof(global::GitUMP.Collectivs);
-            _typeTable[16] = typeof(global::GitUMP.MainPage);
-            _typeTable[17] = typeof(global::GitUMP.News);
-            _typeTable[18] = typeof(global::GitUMP.SportCollectivs);
-            _typeTable[19] = typeof(global::GitUMP.Photo);
-            _typeTable[20] = typeof(global::GitUMP.SinceCollectivs);
-            _typeTable[21] = typeof(global::GitUMP.Video);
+            _typeTable[13] = typeof(global::GitUMP.Info1054);
+            _typeTable[14] = typeof(global::GitUMP.InfoPrestizh);
+            _typeTable[15] = typeof(global::GitUMP.CommunityCollectivs);
+            _typeTable[16] = typeof(global::GitUMP.DanceCollectivs);
+            _typeTable[17] = typeof(global::GitUMP.Collectivs);
+            _typeTable[18] = typeof(global::GitUMP.MainPage);
+            _typeTable[19] = typeof(global::GitUMP.News);
+            _typeTable[20] = typeof(global::GitUMP.SportCollectivs);
+            _typeTable[21] = typeof(global::GitUMP.Photo);
+            _typeTable[22] = typeof(global::GitUMP.SinceCollectivs);
+            _typeTable[23] = typeof(global::GitUMP.Video);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -215,7 +219,7 @@ namespace GitUMP.GitUMP_XamlTypeInfo
 
         private object Activate_0_InfoHostel() { return new global::GitUMP.InfoHostel(); }
         private object Activate_3_InfoDigital() { return new global::GitUMP.InfoDigital(); }
-        private object Activate_4_InfoLSEPPI() { return new global::GitUMP.InfoLSEPPI(); }
+        private object Activate_4_InfoSSAG() { return new global::GitUMP.InfoSSAG(); }
         private object Activate_5_InfoDebate() { return new global::GitUMP.InfoDebate(); }
         private object Activate_6_InfoStatus() { return new global::GitUMP.InfoStatus(); }
         private object Activate_7_InfoMTTS() { return new global::GitUMP.InfoMTTS(); }
@@ -224,15 +228,17 @@ namespace GitUMP.GitUMP_XamlTypeInfo
         private object Activate_10_InfoNSO() { return new global::GitUMP.InfoNSO(); }
         private object Activate_11_InfoRSO() { return new global::GitUMP.InfoRSO(); }
         private object Activate_12_InfoCV() { return new global::GitUMP.InfoCV(); }
-        private object Activate_13_CommunityCollectivs() { return new global::GitUMP.CommunityCollectivs(); }
-        private object Activate_14_DanceCollectivs() { return new global::GitUMP.DanceCollectivs(); }
-        private object Activate_15_Collectivs() { return new global::GitUMP.Collectivs(); }
-        private object Activate_16_MainPage() { return new global::GitUMP.MainPage(); }
-        private object Activate_17_News() { return new global::GitUMP.News(); }
-        private object Activate_18_SportCollectivs() { return new global::GitUMP.SportCollectivs(); }
-        private object Activate_19_Photo() { return new global::GitUMP.Photo(); }
-        private object Activate_20_SinceCollectivs() { return new global::GitUMP.SinceCollectivs(); }
-        private object Activate_21_Video() { return new global::GitUMP.Video(); }
+        private object Activate_13_Info1054() { return new global::GitUMP.Info1054(); }
+        private object Activate_14_InfoPrestizh() { return new global::GitUMP.InfoPrestizh(); }
+        private object Activate_15_CommunityCollectivs() { return new global::GitUMP.CommunityCollectivs(); }
+        private object Activate_16_DanceCollectivs() { return new global::GitUMP.DanceCollectivs(); }
+        private object Activate_17_Collectivs() { return new global::GitUMP.Collectivs(); }
+        private object Activate_18_MainPage() { return new global::GitUMP.MainPage(); }
+        private object Activate_19_News() { return new global::GitUMP.News(); }
+        private object Activate_20_SportCollectivs() { return new global::GitUMP.SportCollectivs(); }
+        private object Activate_21_Photo() { return new global::GitUMP.Photo(); }
+        private object Activate_22_SinceCollectivs() { return new global::GitUMP.SinceCollectivs(); }
+        private object Activate_23_Video() { return new global::GitUMP.Video(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -266,9 +272,9 @@ namespace GitUMP.GitUMP_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 4:   //  GitUMP.InfoLSEPPI
+            case 4:   //  GitUMP.InfoSSAG
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_InfoLSEPPI;
+                userType.Activator = Activate_4_InfoSSAG;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -329,65 +335,79 @@ namespace GitUMP.GitUMP_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 13:   //  GitUMP.CommunityCollectivs
+            case 13:   //  GitUMP.Info1054
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_13_CommunityCollectivs;
+                userType.Activator = Activate_13_Info1054;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 14:   //  GitUMP.DanceCollectivs
+            case 14:   //  GitUMP.InfoPrestizh
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_14_DanceCollectivs;
+                userType.Activator = Activate_14_InfoPrestizh;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 15:   //  GitUMP.Collectivs
+            case 15:   //  GitUMP.CommunityCollectivs
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_15_Collectivs;
+                userType.Activator = Activate_15_CommunityCollectivs;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 16:   //  GitUMP.MainPage
+            case 16:   //  GitUMP.DanceCollectivs
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_16_MainPage;
+                userType.Activator = Activate_16_DanceCollectivs;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 17:   //  GitUMP.News
+            case 17:   //  GitUMP.Collectivs
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_17_News;
+                userType.Activator = Activate_17_Collectivs;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 18:   //  GitUMP.SportCollectivs
+            case 18:   //  GitUMP.MainPage
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_18_SportCollectivs;
+                userType.Activator = Activate_18_MainPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 19:   //  GitUMP.Photo
+            case 19:   //  GitUMP.News
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_19_Photo;
+                userType.Activator = Activate_19_News;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 20:   //  GitUMP.SinceCollectivs
+            case 20:   //  GitUMP.SportCollectivs
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_20_SinceCollectivs;
+                userType.Activator = Activate_20_SportCollectivs;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 21:   //  GitUMP.Video
+            case 21:   //  GitUMP.Photo
                 userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_21_Video;
+                userType.Activator = Activate_21_Photo;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 22:   //  GitUMP.SinceCollectivs
+                userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_22_SinceCollectivs;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 23:   //  GitUMP.Video
+                userType = new global::GitUMP.GitUMP_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_23_Video;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
