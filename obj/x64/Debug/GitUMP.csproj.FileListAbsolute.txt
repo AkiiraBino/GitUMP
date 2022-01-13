@@ -1,0 +1,631 @@
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\App.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\MainPage.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\News.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\GitUMP.xr.xml
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\GitUMP.exe
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\GitUMP.pdb
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\resources.pri
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\AppxManifest.xml
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Core\GitUMP.exe
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\GitUMP.build.appxrecipe
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Microsoft.CSharp.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Core.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Numerics.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.Serialization.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ServiceModel.Web.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ServiceModel.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Windows.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Xml.Linq.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Xml.Serialization.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Xml.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Microsoft.VisualBasic.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Collections.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Globalization.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.IO.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.Handles.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Text.Encoding.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Threading.Tasks.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Threading.Timer.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.Primitives.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.Sockets.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\clrjit.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\clrcompression.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Private.Uri.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.AppContext.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Buffers.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Collections.Specialized.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ComponentModel.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Data.Common.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.IO.Compression.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Linq.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Linq.Expressions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Linq.Parallel.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Linq.Queryable.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.Http.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.Http.Rtc.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.NameResolution.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.Requests.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.WebSockets.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Net.WebSockets.Client.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ObjectModel.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Private.DataContractSerialization.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Private.ServiceModel.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.Context.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.Emit.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Security.Claims.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Security.Principal.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ServiceModel.Duplex.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ServiceModel.Http.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ServiceModel.Primitives.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.ServiceModel.Security.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Threading.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Xml.XDocument.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\App.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\App.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\MainPage.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\News.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\News.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\App.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\MainPage.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\News.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\App.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\MainPage.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\News.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\GitUMP.csproj.CoreCompileInputs.cache
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\GitUMP.csproj.CopyComplete
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\GitUMP.exe
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\GitUMP.pdb
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Collections.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.IO.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Linq.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Threading.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\priconfig.xml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\resources.resfiles
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\pri.resfiles
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\qualifiers.txt
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\resources.en-us.resfiles
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\resources.en-us.resfiles.intermediate
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\GitUMP.csproj.AssemblyReference.cache
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoCV.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Dictionary.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Dictionary.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Dictionary.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoRSO.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoNSO.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoMTTS.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoSSK.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoSSO.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoHostel.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoDigital.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoLSEPPI.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoDebate.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\CollectivsPage\InfoStatus.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Photo.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Photo.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Video.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Video.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Photo.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Video.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Photo.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\Video.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Photo.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\Video.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\PageWithCollectivs\CommunityCollectivs.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\PageWithCollectivs\DanceCollectivs.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\PageWithCollectivs\Collectivs.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\bin\x64\Debug\PageWithCollectivs\SinceCollectivs.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.g.i.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.g.cs
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.xaml
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.xbf
+C:\Users\minio\Desktop\GitUMP\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\App.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoHostel.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoDigital.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoLSEPPI.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoDebate.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoStatus.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoMTTS.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoSSK.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoSSO.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoNSO.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoRSO.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\CollectivsPage\InfoCV.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\CommunityCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\DanceCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\Collectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Dictionary.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\MainPage.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\News.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Photo.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\SinceCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Video.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\GitUMP.xr.xml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\GitUMP.exe
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\GitUMP.pdb
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\resources.pri
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\AppxManifest.xml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Core\GitUMP.exe
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\GitUMP.build.appxrecipe
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Microsoft.CSharp.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Core.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Numerics.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.Serialization.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ServiceModel.Web.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ServiceModel.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Windows.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Xml.Linq.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Xml.Serialization.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Xml.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Microsoft.VisualBasic.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Collections.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Globalization.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.IO.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.Handles.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Text.Encoding.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Threading.Tasks.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Threading.Timer.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.IO.FileSystem.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.Primitives.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.Sockets.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\clrjit.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\clrcompression.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Private.Uri.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.AppContext.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Buffers.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Collections.Specialized.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ComponentModel.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Data.Common.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.IO.Compression.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Linq.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Linq.Expressions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Linq.Parallel.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Linq.Queryable.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.Http.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.Http.Rtc.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.NameResolution.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.Requests.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.WebSockets.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Net.WebSockets.Client.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ObjectModel.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Private.DataContractSerialization.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Private.ServiceModel.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.Context.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.Emit.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Security.Claims.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Security.Cryptography.Cng.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Security.Cryptography.Encoding.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Security.Cryptography.Primitives.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Security.Principal.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ServiceModel.Duplex.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ServiceModel.Http.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ServiceModel.Primitives.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.ServiceModel.Security.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Threading.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Xml.XDocument.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\GitUMP.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\App.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\App.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\MainPage.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\MainPage.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\News.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\News.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Photo.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Photo.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Video.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Video.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\App.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Dictionary.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\MainPage.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\News.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Photo.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Video.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\App.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoHostel.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDigital.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoLSEPPI.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoDebate.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoStatus.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoMTTS.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSK.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoSSO.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoNSO.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoRSO.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\CollectivsPage\InfoCV.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\CommunityCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\DanceCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\Collectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Dictionary.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\MainPage.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\News.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Photo.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SinceCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\Video.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\GitUMP.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\GitUMP.csproj.CopyComplete
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\GitUMP.exe
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\GitUMP.pdb
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Collections.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.IO.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Buffers.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Linq.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Threading.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\priconfig.xml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\filtered.layout.resfiles
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\excluded.layout.resfiles
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\resources.resfiles
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\pri.resfiles
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\qualifiers.txt
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\resources.en-us.resfiles
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\resources.en-us.resfiles.intermediate
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SportCollectivs.g.i.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SportCollectivs.g.cs
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SportCollectivs.xaml
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\obj\x64\Debug\PageWithCollectivs\SportCollectivs.xbf
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\bin\x64\Debug\PageWithCollectivs\SportCollectivs.xbf

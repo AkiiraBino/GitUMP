@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="GitUMP.Video"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GitUMP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <SplitView x:Name="MySplitView" DisplayMode="CompactOverlay" IsPaneOpen="False" CompactPaneLength="50" OpenPaneLength="200">
+            <SplitView.Pane>
+                <StackPanel Background="#8A3356"  >
+                    <!--Это язык XAML тут если что есть контруктор смотрите внимательно вкладочку вид там есть элементы -->
+                    <Button x:Name="HamburgerButton" Content="" Click="HamburgerButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="CollectivsButton" Content="" Click="CollectivsButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Объеденения" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="NewsButton" Content="" Click="News_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Новости" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="PhotoButton" Content="" Click="PhotoButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Фото" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="VideoButton" Content="" Click="VideoButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Видео" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="BackButton" Content="" Click="BackButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="На главную" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                </StackPanel>
+            </SplitView.Pane>
+
+            <SplitView.Content>
+                <TextBlock FontSize="44" Foreground="Purple" HorizontalAlignment="Center" VerticalAlignment="Center"  Text="Видео с совместных мероприятий"/>
+            </SplitView.Content>
+        </SplitView>
+    </Grid>
+</Page>

@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Куча папок\Проект\GitUMP-change_branch\GitUMP\GitUMP.csproj;x64

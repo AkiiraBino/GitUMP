@@ -1,0 +1,119 @@
+﻿<Page
+    x:Class="GitUMP.CommunityCollectivs"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GitUMP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.25*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0">
+            <Button x:Name="ButtonCreation" Click="ButtonCreation_Click" Background="Transparent" Width="250" Height="250" Margin="80,0,0,0">
+                <Image Source="/Assets/ButtonCollectivs/Create.png"/>
+            </Button>
+            <Button x:Name="ButtonSport" Click="ButtonSport_Click" Background="Transparent" Width="250" Height="250">
+                <Image Source="/Assets/ButtonCollectivs/Sport.png"/>
+            </Button>
+            <Button x:Name="ButtonGraph" Click="CollectivsButton_Click"  Background="Transparent" Width="400" Height="200">
+                <Image Source="/Assets/ButtonCollectivs/V_yberi_Svoy_put.png"/>
+            </Button>
+            <Button x:Name="ButtonSince" Click="ButtonSince_Click" Background="Transparent" Width="250" Height="250">
+                <Image Source="/Assets/ButtonCollectivs/Since.png"/>
+            </Button>
+            <Button x:Name="ButtonSociety" Background="Transparent" Width="250" Height="250">
+                <Image Source="/Assets/ButtonCollectivs/Society.png"/>
+            </Button>
+        </StackPanel>
+
+        <ScrollViewer VerticalScrollBarVisibility="Hidden" Grid.Row="1">
+            <ScrollViewer.Content>
+                <StackPanel x:Name="StackCollectivs" Orientation="Horizontal">
+                    <StackPanel x:Name="Stack1and2" Orientation="Horizontal" >
+                        <StackPanel  x:Name="Stack1"  Orientation="Vertical" Margin="60,-70,30,0" HorizontalAlignment="Center">
+                            <Button x:Name = "ButtonInfoMTTS"  Click="ButtonInfoMTTS_Click" Style="{StaticResource ButtonCollectiv}">
+                                <Grid>
+                                    <Image  Source="/Assets/CollectivsPhoto/mtts.png" Style="{StaticResource ImageCollectiv}"/>
+                                </Grid>
+                            </Button>
+                            
+                            <Button x:Name = "ButtonInfoRSO" Click="ButtonInfoRSO_Click" Style="{StaticResource ButtonCollectiv}" >
+                                <Grid>
+                                    <Image  Source="/Assets/CollectivsPhoto/RSO.png" Style="{StaticResource ImageCollectiv}"/>
+                                </Grid>
+                            </Button>
+                             <Button x:Name = "ButtonInfoSSO" Click="ButtonInfoSSO_Click" Style="{StaticResource ButtonCollectiv}">
+                                <Grid>
+                                    <Image  Source="/Assets/CollectivsPhoto/sso.png" Style="{StaticResource ImageCollectiv}"/>
+                                </Grid>
+                            </Button>
+                        </StackPanel>
+                        <StackPanel x:Name="Stack2" Orientation="Vertical" Margin="30,-70,30,0" HorizontalAlignment="Center">
+                            <Button x:Name = "ButtonInfoDebate" Click="ButtonInfoDebate_Click" Style="{StaticResource ButtonCollectiv}" >
+                                <Grid>
+                                    <Image  Source="/Assets/CollectivsPhoto/debate.png" Style="{StaticResource ImageCollectiv}"/>
+                                </Grid>
+                            </Button>
+                            <Button x:Name = "ButtonInfoSSAG" Click="ButtonInfoSSAG_Click" Style="{StaticResource ButtonCollectiv}">
+                                <Grid>
+                                    <Image  Source="/Assets/CollectivsPhoto/ssag.png" Style="{StaticResource ImageCollectiv}"/>
+                                </Grid>
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel x:Name="Stack3and4" Margin="30,-70,30,0">
+                        <StackPanel x:Name="Stack3" Orientation="Vertical" Margin="0,0,0,0">
+                            <Button x:Name = "ButtonInfoStatus" Click="ButtonInfoStatus_Click" Style="{StaticResource ButtonCollectiv}">
+                                <Grid>
+                                    <Image Source="/Assets/CollectivsPhoto/status.png" Style="{StaticResource ImageCollectiv}"/>
+                                </Grid>
+                            </Button>
+                            <Button x:Name = "ButtonInfoCV" Click="ButtonInfoCV_Click"  Style="{StaticResource ButtonCollectiv}">
+                                <Grid>
+                                    <Image  Source="/Assets/CollectivsPhoto/CV.png" Style="{StaticResource ImageCollectiv}"/>
+                                </Grid>
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </ScrollViewer.Content>
+        </ScrollViewer>
+
+        <SplitView Grid.RowSpan="2" x:Name="MySplitView" DisplayMode="CompactOverlay" IsPaneOpen="False" CompactPaneLength="50" OpenPaneLength="200">
+            <SplitView.Pane>
+                <StackPanel Background="#8A3356"  >
+                    <Button x:Name="HamburgerButton" Content="" Click="HamburgerButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="CollectivsButton" Content="" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Объеденения" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="NewsButton" Content="" Click="News_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Новости" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="PhotoButton" Content="" Click="PhotoButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Фото" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="VideoButton" Content="" Click="VideoButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="Видео" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="BackButton" Content="" Click="BackButton_Click" Style="{StaticResource ButtonHamburgerMenu}"/>
+                        <TextBlock Text="На главную" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Right" />
+                    </StackPanel>
+                </StackPanel>
+            </SplitView.Pane>
+        </SplitView>
+    </Grid>
+
+
+</Page>

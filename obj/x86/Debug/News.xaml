@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="GitUMP.News"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GitUMP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock Text="ТУТ НОВОСТИ КОТОРЫЕ ДОЛЖНЫ БРАТЬСЯ ИЗ ИНСТЫ" FontSize="44" Foreground="Purple" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <Button x:ConnectionId='1' Content="ПОТОМ ЭТУ КНОПКУ УБЕРЕМ" VerticalAlignment="Top" Height="60" Width="234"                         />
+
+    </Grid>
+</Page>
+
