@@ -9,6 +9,27 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <FlipView Margin="45,0,0,0" Background="Transparent">
+            <FlipView.Items>
+                <Grid>
+                    <Image x:Name="ImageNews" Source="/Assets/NewsParsing/news.jpg" Stretch="UniformToFill" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <ScrollViewer Background="White" Opacity="0.8" Width="900">
+                        <ScrollViewer.Content>
+                            <TextBlock x:Name="TextNews" HorizontalAlignment="Center" Width="850" VerticalAlignment="Center" FontSize="40" FontFamily="Comfortaa" Opacity="1"/>
+                        </ScrollViewer.Content>
+                    </ScrollViewer>
+                </Grid>
+                <Grid>
+                    <Image x:Name="ImageNews2" Source="/Assets/NewsParsing/news2.jpg" Stretch="UniformToFill" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                    <ScrollViewer Background="White" Opacity="0.8" Width="900">
+                        <ScrollViewer.Content>
+                            <TextBlock x:Name="TextNews2" HorizontalAlignment="Center" Width="850" VerticalAlignment="Center" FontSize="40" FontFamily="Comfortaa" Opacity="1"/>
+                        </ScrollViewer.Content>
+                    </ScrollViewer>
+                </Grid>
+            </FlipView.Items>
+        </FlipView>
+
         <SplitView x:Name="MySplitView" DisplayMode="CompactOverlay" IsPaneOpen="False" CompactPaneLength="50" OpenPaneLength="200">
             <SplitView.Pane>
                 <StackPanel Background="#8A3356"  >
@@ -36,10 +57,6 @@
                     </StackPanel>
                 </StackPanel>
             </SplitView.Pane>
-
-            <SplitView.Content>
-                <TextBlock Text="ТУТ НОВОСТИ КОТОРЫЕ ДОЛЖНЫ БРАТЬСЯ ИЗ ИНСТЫ" FontSize="44" Foreground="Purple" HorizontalAlignment="Center" VerticalAlignment="Center" />
-            </SplitView.Content>
         </SplitView>
     </Grid>
 </Page>

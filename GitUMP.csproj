@@ -119,9 +119,6 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CollectivsPage\InfoHostel.xaml.cs">
-      <DependentUpon>InfoHostel.xaml</DependentUpon>
-    </Compile>
     <Compile Include="CollectivsPage\InfoDigital.xaml.cs">
       <DependentUpon>InfoDigital.xaml</DependentUpon>
     </Compile>
@@ -198,8 +195,11 @@
     <Content Include="Assets\ButtonCollectivs\Society.png" />
     <Content Include="Assets\ButtonCollectivs\Sport.png" />
     <Content Include="Assets\CollectivsPagePNG\Info1054.png" />
+    <Content Include="Assets\CollectivsPagePNG\InfoMTTS.png" />
     <Content Include="Assets\CollectivsPagePNG\InfoPrestizh.png" />
+    <Content Include="Assets\CollectivsPagePNG\InfoRSO.png" />
     <Content Include="Assets\CollectivsPagePNG\InfoSSAG.png" />
+    <Content Include="Assets\CollectivsPagePNG\InfoStatus.png" />
     <Content Include="Assets\CollectivsPhoto\prestige.png" />
     <Content Include="Assets\ButtonCollectivs\V_yberi_svoy_put.png" />
     <Content Include="Assets\CollectivsPagePNG\InfoSSK.png" />
@@ -215,6 +215,12 @@
     <Content Include="Assets\CollectivsPhoto\ssag.png" />
     <Content Include="Assets\CollectivsPhoto\status.png" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\NewsParsing\BackgroundNews.jpg" />
+    <Content Include="Assets\NewsParsing\browsers.txt" />
+    <Content Include="Assets\NewsParsing\browsers2.txt" />
+    <Content Include="Assets\NewsParsing\news.jpg" />
+    <Content Include="Assets\NewsParsing\news2.jpg" />
+    <Content Include="Assets\NewsParsing\NewsUpdate.exe" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
     <Content Include="Assets\Square150x150Logo.scale-200.png" />
     <Content Include="Assets\Square44x44Logo.scale-200.png" />
@@ -234,10 +240,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="CollectivsPage\InfoHostel.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="CollectivsPage\InfoDigital.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -333,6 +335,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <None Include="Assets\NewsParsing\vk_config.v2.json" />
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

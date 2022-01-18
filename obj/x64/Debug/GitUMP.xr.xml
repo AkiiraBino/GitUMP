@@ -17,19 +17,26 @@
       <RootProperty Name="RowDefinitions" />
       <RootProperty Name="ColumnDefinitions" />
       <RootProperty Name="Children" />
-      <RootMethod Name="GetColumn" />
-      <RootMethod Name="SetColumn" />
-      <RootMethod Name="GetRow" />
-      <RootMethod Name="SetRow" />
       <RootMethod Name="GetRowSpan" />
       <RootMethod Name="SetRowSpan" />
       <RootMethod Name="GetColumnSpan" />
       <RootMethod Name="SetColumnSpan" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
       <RootProperty Name="Height" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
       <RootProperty Name="FontFamily" />
       <RootProperty Name="Content" />
@@ -41,12 +48,6 @@
       <RootProperty Name="Width" />
       <RootProperty Name="Height" />
       <RootEvent Name="Click" />
-    </RootType>
-    <RootType FullName="GitUMP.InfoHostel" />
-    <RootType FullName="Windows.UI.Xaml.Controls.Image">
-      <RootProperty Name="Source" />
-      <RootProperty Name="Stretch" />
-      <RootProperty Name="Style" />
     </RootType>
     <RootType FullName="GitUMP.InfoDigital" />
     <RootType FullName="GitUMP.InfoSSAG" />
@@ -70,6 +71,9 @@
     <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
       <RootProperty Name="VerticalScrollBarVisibility" />
       <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Width" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.SplitView">
       <RootProperty Name="DisplayMode" />
@@ -86,6 +90,9 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="TextWrapping" />
       <RootProperty Name="TextAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Opacity" />
       <RootProperty Name="Foreground" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
@@ -107,6 +114,11 @@
       <RootProperty Name="Value" />
     </RootType>
     <RootType FullName="GitUMP.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.FlipView">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Items" />
+    </RootType>
     <RootType FullName="GitUMP.News" />
     <RootType FullName="GitUMP.SportCollectivs" />
     <RootType FullName="GitUMP.Photo" />

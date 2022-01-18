@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EjN32aiaefL6Dbvty+yk8b/LUoTdCCs8Bagdn+02wpFn4KX0xVDtuah5AO0454+1EBeRdyrWAfmIYo8FTN5YMg==",
+  "dgSpecHash": "IsHLyfLQxjJpFsuYzVWod8s9whCcMIOP9hTwaCjBH9XRFgVPe2kpDAQYuZFCa1Ulag4q9FesUwb70cx9HHGNjA==",
   "success": true,
-  "projectFilePath": "C:\\Program Files (x86)\\Куча папок\\Проект\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj",
+  "projectFilePath": "C:\\Program Files (x86)\\Stack\\Project\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\1.7.6\\microsoft.net.native.compiler.1.7.6.nupkg.sha512",

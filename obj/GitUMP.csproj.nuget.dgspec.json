@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files (x86)\\Куча папок\\Проект\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj": {}
+    "C:\\Program Files (x86)\\Stack\\Project\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj": {}
   },
   "projects": {
-    "C:\\Program Files (x86)\\Куча папок\\Проект\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj": {
+    "C:\\Program Files (x86)\\Stack\\Project\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\Куча папок\\Проект\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)\\Stack\\Project\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj",
         "projectName": "GitUMP",
-        "projectPath": "C:\\Program Files (x86)\\Куча папок\\Проект\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj",
+        "projectPath": "C:\\Program Files (x86)\\Stack\\Project\\GitUMP-change_branch\\GitUMP\\GitUMP.csproj",
         "packagesPath": "C:\\Users\\minio\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\Куча папок\\Проект\\GitUMP-change_branch\\GitUMP\\obj\\",
+        "outputPath": "C:\\Program Files (x86)\\Stack\\Project\\GitUMP-change_branch\\GitUMP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

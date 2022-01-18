@@ -3,7 +3,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <Style TargetType="Button" x:Key="ButtonCollectiv">
-        <Setter Property="Control.Margin" Value="30,150,0,30"/>
+        <Setter Property="Control.Margin" Value="30,100,10,30"/>
         <Setter Property="Background" Value="Transparent"/>
         <Setter Property="Control.Width" Value="400"/>
         <Setter Property="Control.HorizontalAlignment" Value="Center"/>
@@ -30,7 +30,7 @@
     </Style>
 
     <Style TargetType="Image" x:Key="ImageCollectiv">
-        <Setter Property="Margin" Value="-11,-11,-11,-110"/>
+        <Setter Property="Margin" Value="-11,-11,-11,-40"/>
         <Setter Property="Width" Value="400"/>
         <Setter Property="Stretch" Value="UniformToFill"/>
     </Style>

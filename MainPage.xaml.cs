@@ -12,7 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
-
+using System.Diagnostics;
 
 namespace GitUMP
 {
@@ -22,7 +22,6 @@ namespace GitUMP
         public MainPage()
         {
             this.InitializeComponent();
-           
         }
         private void HamburgerButton_Click(object sender, RoutedEventArgs e)
             // Условие которое при нажатие на кнопку открывает у вас меню
